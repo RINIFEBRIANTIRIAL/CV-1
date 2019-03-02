@@ -39,7 +39,7 @@ ol{
  }
 
 .kontak{
-    text-align: center;
+    margin-left: 630px;
     width:70px;
     height:25px;
     background: mediumturquoise;
@@ -47,7 +47,7 @@ ol{
     
 }
 .kata{
-    text-align: center;
+    margin-left: 350px;
     color: black;
 }
 hr{
