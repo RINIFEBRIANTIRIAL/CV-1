@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My Contacts</title>
+        <link rel="stylesheet" href="style/csscontacts.css">
+        <title>My Contacts </title>
     </head>
     <body>
         <h1>My Contact details</h1>
@@ -10,42 +11,43 @@
         <p>jalan poros malino eks pkg gowa</p>
         <h5>0812-4419-4125</h5>
         <p> </p>
-        <p><font color = blue>jumrainijamaluddin@gamail.com</font></p>
+        <p class="satu">jumrainijamaluddin@gamail.com</p>
         <hr>
+        
         <form action ="contact.html" method="GET">
  
-        Tanggal :<br> <input type="date" name="tanggal">
+        <span class="one">Tanggal :<br> <input type="date" name="tanggal"></span>
         <br> <br>
-        Your Name :<br> <input type="" name="nama">
+        <span>Your Name :<br> <input type="" name="nama"></span>
         <br> <br>
-        Your Email : <br> <input type="" name="email">
+       <span>Your Email : <br> <input type="" name="email"></span> 
         <br><br>
-        Your Massengger : <textarea name="pesan"  cols="30" rows="10"></textarea>
+        <span>Your Massengger : <textarea name="pesan"  cols="20" rows="5"></textarea></span>
 
         <br> <br> <br> <br> <br>
-        Warna Kesukaan : <br> 
-        <input type="color" name="red">
+       <span> Warna Kesukaan : <br> 
+        <input type="color" name="red"> </span>
         <br>
 
-        Jenis Kelamin :
+        <span>Jenis Kelamin :
         <input type="radio" name="Jeniskelamin"\>
         laki - laki
         <input type="radio" name="Jeniskelamin"\>
-        perempuan
+        perempuan</span>
         <br> 
-        Pendidikan Terakhir :
+        <span>Pendidikan Terakhir :
         <select name="pendidikan_terakhir">
             <option value="SMA"> SMA</option>
             <option value="SMP">SMP</option>
             <option value="SD">SD</option>
-        </select>
+        </select> </span>
         <br> <br>
 
-        Kmentar Anda :
+       <span> Kmentar Anda :
         <textarea name="komentar">
         </textarea>
         <br> <br>
-        <input type="submit" value="masuk">
+        <input type="submit" value="masuk"></span>
         </from>
     </body>
 </html>
