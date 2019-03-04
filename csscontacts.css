@@ -1,0 +1,40 @@
+body{
+    background: paleturquoise;
+    color: palevioletred;
+ 
+}
+span{
+    background-color: rgb(255, 198, 208);
+    color: black;
+}
+}
+.satu{
+    color: blue
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+h5{
+    font-size: 30px;
+    text-align: center;
+}
+hr{
+    border-style: dotted;
+    border-width: 3px;
+    border-color: palevioletred;
+}
+input{
+    background-color: aquamarine;
+
+    
+}
+textarea{
+    background-color: aquamarine;
+    color: black;
+    font-size: 18px;
+}

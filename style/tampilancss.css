@@ -52,4 +52,6 @@ ol{
 }
 hr{
 color: maroon;
+border-style: dashed;
+border-width: 3px;
 }
