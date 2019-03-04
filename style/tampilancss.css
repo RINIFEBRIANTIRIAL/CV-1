@@ -1,0 +1,57 @@
+body{
+    background: rgb(245, 207, 213);
+    color: darkblue;
+}
+h1{
+    margin-bottom: 50px;
+    margin-left: 450px;
+    text-decoration: underline ;
+    font-family: Times New Roman, Times, serif
+    
+}
+.pertama{
+    font-size: 20px;
+    margin-left: 450px;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+img{
+    margin-right: 40px;
+    border-radius: 700px;
+}
+h4{
+    font-size: 15px;
+    margin-left: 250px;
+    font-size: 25px;
+}
+ol{
+    margin-left: 230px;
+    color: black ;
+}
+.kedua{
+     margin-left: 250px;
+     color: black;
+ }
+
+ .ketiga{
+     margin-left: 250px;
+     color: black;
+ }
+
+.kontak{
+    margin-left: 630px;
+    width:70px;
+    height:25px;
+    background: mediumturquoise;
+    border: 3px solid black;
+    
+}
+.kata{
+    margin-left: 350px;
+    color: black;
+}
+hr{
+color: maroon;
+border-style: dashed;
+border-width: 3px;
+}
